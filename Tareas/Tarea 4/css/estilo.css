@@ -1,0 +1,26 @@
+/* Color-primario:#F04A70;
+   Color-secundario:#144B76;
+   Color-terciario:#28BF01;
+   Color-cuarto:#8A7CDD;
+*/
+.fondoinicial{
+    background-image: url("../pattern-4008915_1280.jpg");
+    background-size: cover;
+}
+.items{
+    padding: 30px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: #f04a70;
+}
+
+.formulario{
+    padding: 5px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 14px;
+    color: aliceblue;
+    background-color: #144B76;
+    width: 200px;
+    margin: auto;
+
+}
